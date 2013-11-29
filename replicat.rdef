@@ -377,10 +377,6 @@ resource app_version {
 
 	short_info = "Replicat",
 	long_info = "Neko the Replicat"
-
-	#"Neko the Replicat 1.06\nby Greg Weston <gweston@home.com> \nand "
-	#"John Yanarella <yanarejm@muohio.edu>\nInspired by Neko for X-win"
-	#"dows by Masayuki Koba"
 };
 
 resource app_flags B_MULTIPLE_LAUNCH;
